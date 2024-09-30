@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kitaplar>
+	<Kitap>
+		<Ad>Kitap Adı</Ad>
+		<Yazar>Yazar</Yazar>
+		<Yayinevi>Yayınevi</Yayinevi>
+		<YayınYili>2023</YayınYili>
+		<Tur>Roman</Tur>
+		<SayfaSayisi>250</SayfaSayisi>
+		<Dil>Türkçe</Dil>
+		<SatisFiyati>1500.99</SatisFiyati>
+	</Kitap>
+</Kitaplar>

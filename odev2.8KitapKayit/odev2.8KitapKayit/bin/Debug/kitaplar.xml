@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kitaplar>
+  <Kitap>
+    <Ad>Sefiller</Ad>
+    <Yazar>Victor Hugo</Yazar>
+    <Yayınevi>İskele Yayıncılık</Yayınevi>
+    <YayınYili>2015</YayınYili>
+    <Tur>Roman</Tur>
+    <SayfaSayisi>400</SayfaSayisi>
+    <Dil>Türkçe</Dil>
+    <SatisFiyati>250,00</SatisFiyati>
+  </Kitap>
+  <Kitap>
+    <Ad>Bir Kadının Yaşamında Yirmi Dört Saat</Ad>
+    <Yazar>Stefan Zweig</Yazar>
+    <Yayınevi>Türkiye İş Bankası Kültür Yayınları</Yayınevi>
+    <YayınYili>2023</YayınYili>
+    <Tur>Roman</Tur>
+    <SayfaSayisi>70</SayfaSayisi>
+    <Dil>Türkçe</Dil>
+    <SatisFiyati>200,00</SatisFiyati>
+  </Kitap>
+  <Kitap>
+    <Ad>Bir Kadının Yaşamında Yirmi Dört Saat</Ad>
+    <Yazar>Stefan Zweig</Yazar>
+    <Yayınevi>Türkiye İş Bankası Kültür Yayınları</Yayınevi>
+    <YayınYili>2023</YayınYili>
+    <Tur>Roman</Tur>
+    <SayfaSayisi>70</SayfaSayisi>
+    <Dil>Türkçe</Dil>
+    <SatisFiyati>200,00</SatisFiyati>
+  </Kitap>
+</Kitaplar>

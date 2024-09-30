@@ -1,0 +1,10 @@
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\bin\Debug\odev2.8KitapKayit.exe.config
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\bin\Debug\odev2.8KitapKayit.exe
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\bin\Debug\odev2.8KitapKayit.pdb
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2.8KitapKayit.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2._8KitapKayit.Form1.resources
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2._8KitapKayit.Properties.Resources.resources
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2.8KitapKayit.csproj.GenerateResource.cache
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2.8KitapKayit.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2.8KitapKayit.exe
+C:\Users\serap\source\repos\odev2.8KitapKayit\odev2.8KitapKayit\obj\Debug\odev2.8KitapKayit.pdb
